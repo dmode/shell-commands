@@ -1,6 +1,6 @@
 # ls 
 
-The `ls`command lists files and folders of a directory
+The `ls` command lists files and folders of a directory
 
 command:
 
@@ -21,3 +21,9 @@ Option | Description
 -r     | displays in reverse order. Default is in alphabetically order
 -S     | sort by file size
 -t     | sort by modification time
+
+examples:
+```Shell
+$ ls -lh
+```
+Shows the long lists with human readable format of the file size
