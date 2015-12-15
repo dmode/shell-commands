@@ -1,8 +1,9 @@
 # ls 
 
 command:
-    ```bash
-    $ ls
-    ````
+
+```Shell
+$ ls
+````
     
 result:
