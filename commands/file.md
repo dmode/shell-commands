@@ -2,7 +2,7 @@
 
 The `file` command shows details of a file
 
-command:
+# command:
 
 ```Shell
 $ file filename.png
