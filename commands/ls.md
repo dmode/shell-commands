@@ -2,13 +2,13 @@
 
 The `ls` command lists files and folders of a directory
 
-command:
+## command:
 
 ```Shell
 $ ls
 ````
 
-options:
+## options:
 
 Option | Description
 ------ | ---------------------------------------------------------------------------
@@ -22,7 +22,7 @@ Option | Description
 -S     | sort by file size
 -t     | sort by modification time
 
-examples:
+## examples:
 ```Shell
 $ ls -lh
 ```
