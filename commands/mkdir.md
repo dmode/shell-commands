@@ -1,13 +1,13 @@
-#1 mkdir
+# mkdir
 
 Creates a new directory
 
-command:
+## command:
 ```Shell
 $ mkdir directoryName
 ```
 
-examples:
+## examples:
 ```Shell
 $ mkdir directory1
 ```
